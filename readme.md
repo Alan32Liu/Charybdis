@@ -65,9 +65,16 @@ If you want RGB, you will also need:
 
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
 
+**Note(dongge): We should use BTUs.**
+
 
 ![](pics/1ac.png)
 
+
+## Build Guides
+1. [Charybdis build guide](https://www.youtube.com/watch?v=cGCYxeZLDmM&ab_channel=BastardKeyboards).
+2. [Charybdis Nano Premium build log](https://www.youtube.com/watch?v=MmBHnL5KuHo&ab_channel=BastardKeyboards).
+3. [The Charybdis Wireless Keyboard](https://www.youtube.com/watch?v=Mks7QDxFreY&ab_channel=EIGA) (with PCB discount link).
 
 ## Print the case
 

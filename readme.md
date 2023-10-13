@@ -63,9 +63,15 @@ If you want RGB, you will also need:
 
 ## Mods
 
+|    | Part name          |  Amount (4x6) | Link       |
+| -- | ------------------ | ------ | ---------- |
+| X | Trackball sensor PCB | 1 | JLCPCB |
+
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
 
 **Note(dongge): We should use BTUs.**
+
+
 
 
 ![](pics/1ac.png)

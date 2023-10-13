@@ -66,6 +66,9 @@ If you want RGB, you will also need:
 |    | Part name          |  Amount (4x6) | Link       |
 | -- | ------------------ | ------ | ---------- |
 | X | Trackball sensor PCB | 1 | JLCPCB |
+|   | Trackball | 1 | ? |
+|   | BTUs | 1 | Veichu VCN310 |
+
 
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
 

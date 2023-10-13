@@ -30,24 +30,24 @@ Otherwise, you can also use other sensor PCBs, but you will need to modify the 3
 
 Components necessary:
 
-| Part name                         | Amount (4x6) | Amount (3x5) | Link                                                                                       |
-| --------------------------------- | ------------ | ------------ | ------------------------------------------------------------------------------------------ |
-| Elite-C                           | 2            | 2            | [Keebio](https://keeb.io/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4) |
-| Elite-C adapter for the Charybdis | 2            | 2            | https://github.com/Bastardkb/Elite-C-holder                                                |
-| Cables                            |              |              | 28 AWG recommended                                                                         |
-| Audio jack, SMD                   | 2            | 2            | [TRRS](https://keeb.io/collections/diy-parts/products/trrs-jack-3-5mm)                     |
-| Button, 4x4x1.5                   | 2            | 2            | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-| Sensor PCB                        | 1            | 1            | see details below                                                                          |
-| Bearing, MR63-3x6x2.5mm           | 3            | 3            | [Amazon](https://www.amazon.com/MR-2RS-Deep-Groove-Ball-Bearing/dp/B09BTTDTT1?th=1)        |
-| Flexible PCB for the plate (4x6)  | 2            | 0            | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
-| Flexible PCB for the thumbs       | 1            | 1            | https://github.com/Bastardkb/PCB_thumbs_Charybdis                                          |
-| Flexible PCB for the thumbs (4x6) | 1            | 0            | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
-| SOD123 Diodes                     | 8            | 35           | [Digik](https://www.digikey.com.au/en/products/filter/discrete-semiconductor-products/diodes/rectifiers/single-diodes/sod-123/280?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQA3AOygBcAnAV3xAHsoBtEAFgAYWAOAJhZAF0CABzJQQAZUoBLYgHMQAXyVA)|
-| BAT54C Diodes                     | 24           | 0            | [1](https://www.amazon.com/dp/B0BL6PCPT7?tag=opebrobar-20&linkCode=osi&th=1&psc=1), [2](https://www.amazon.com/dp/B06WRNN7ND?tag=opebrobar-20&linkCode=osi&th=1&psc=1)  |
-| M4 8mm Torx Screw                 | 16           | 12           | Conrad, [Amazon](https://www.amazon.com/uxcell-M4x8mm-Screws-Replaces-Carbide/dp/B07KY8QJC6/ref=sr_1_1?content-id=amzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf%3Aamzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf&keywords=Screws&pd_rd_r=97a7b1be-f6be-4778-882f-903a0b0aecdf&pd_rd_w=8OYjX&pd_rd_wg=BttCv&pf_rd_p=918a99dd-4826-4c0a-be33-a6705d69c4cf&pf_rd_r=0KVABRZ0HQDXVJT4M17R&pid=86exCdD&qid=1692883413&refinements=p_n_feature_five_browse-bin%3A3177290011%2Cp_n_feature_twenty-eight_browse-bin%3A19043859011&s=industrial&sr=1-1) |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16           | 12           | [aliexpress](https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v)    |
-| Screws, M3 8mm Torx               | 8            | 8            | [Amazon](https://www.amazon.com/dp/B01D8L4XVE?tag=opebrobar-20&linkCode=osi&)              |
-| Heated screw insert, M3x5x5       | 5            | 5            | [aliexpress](https://fr.aliexpress.com/item/1005005220632314.html?spm=a2g0o.productlist.main.5.35de11b34IXUpa&algo_pvid=d15248ab-3830-4259-a2ca-363436415617&algo_exp_id=d15248ab-3830-4259-a2ca-363436415617-2&pdp_npi=4%40dis%21AUD%2110.85%210.77%21%21%2150.39%21%21%402101e9d416928837462348642e7119%2112000032238859319%21sea%21AU%210%21A&curPageLogUid=X44qKjVjlO5T)                                                                                           |
+|     | Part name                         | Amount (4x6) | Amount (3x5) | Link                                                                                       |
+|-----| --------------------------------- | ------------ | ------------ | ------------------------------------------------------------------------------------------ |
+| [ ] | Elite-C                           | 2            | 2            | [Keebio](https://keeb.io/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4) |
+| [ ] | Elite-C adapter for the Charybdis | 2            | 2            | https://github.com/Bastardkb/Elite-C-holder                                                |
+| [ ] | Cables                            |              |              | 28 AWG recommended                                                                         |
+| [ ] | Audio jack, SMD                   | 2            | 2            | [TRRS](https://keeb.io/collections/diy-parts/products/trrs-jack-3-5mm)                     |
+| [ ] | Button, 4x4x1.5                   | 2            | 2            | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
+| [ ] | Sensor PCB                        | 1            | 1            | see details below                                                                          |
+| [ ] | Bearing, MR63-3x6x2.5mm           | 3            | 3            | [Amazon](https://www.amazon.com/MR-2RS-Deep-Groove-Ball-Bearing/dp/B09BTTDTT1?th=1)        |
+| [ ] | Flexible PCB for the plate (4x6)  | 2            | 0            | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
+| [ ] | Flexible PCB for the thumbs       | 1            | 1            | https://github.com/Bastardkb/PCB_thumbs_Charybdis                                          |
+| [ ] | Flexible PCB for the thumbs (4x6) | 1            | 0            | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
+| [ ] | SOD123 Diodes                     | 8            | 35           | [Digik](https://www.digikey.com.au/en/products/filter/discrete-semiconductor-products/diodes/rectifiers/single-diodes/sod-123/280?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQA3AOygBcAnAV3xAHsoBtEAFgAYWAOAJhZAF0CABzJQQAZUoBLYgHMQAXyVA)|
+| [ ] | BAT54C Diodes                     | 24           | 0            | [1](https://www.amazon.com/dp/B0BL6PCPT7?tag=opebrobar-20&linkCode=osi&th=1&psc=1), [2](https://www.amazon.com/dp/B06WRNN7ND?tag=opebrobar-20&linkCode=osi&th=1&psc=1)  |
+| [ ] | M4 8mm Torx Screw                 | 16           | 12           | Conrad, [Amazon](https://www.amazon.com/uxcell-M4x8mm-Screws-Replaces-Carbide/dp/B07KY8QJC6/ref=sr_1_1?content-id=amzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf%3Aamzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf&keywords=Screws&pd_rd_r=97a7b1be-f6be-4778-882f-903a0b0aecdf&pd_rd_w=8OYjX&pd_rd_wg=BttCv&pf_rd_p=918a99dd-4826-4c0a-be33-a6705d69c4cf&pf_rd_r=0KVABRZ0HQDXVJT4M17R&pid=86exCdD&qid=1692883413&refinements=p_n_feature_five_browse-bin%3A3177290011%2Cp_n_feature_twenty-eight_browse-bin%3A19043859011&s=industrial&sr=1-1) |
+| [ ] | M4 screw insert, M4 X D6.0 X L5.0 | 16           | 12           | [aliexpress](https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v)    |
+| [ ] | Screws, M3 8mm Torx               | 8            | 8            | [Amazon](https://www.amazon.com/dp/B01D8L4XVE?tag=opebrobar-20&linkCode=osi&)              |
+| [ ] | Heated screw insert, M3x5x5       | 5            | 5            | [aliexpress](https://fr.aliexpress.com/item/1005005220632314.html?spm=a2g0o.productlist.main.5.35de11b34IXUpa&algo_pvid=d15248ab-3830-4259-a2ca-363436415617&algo_exp_id=d15248ab-3830-4259-a2ca-363436415617-2&pdp_npi=4%40dis%21AUD%2110.85%210.77%21%21%2150.39%21%21%402101e9d416928837462348642e7119%2112000032238859319%21sea%21AU%210%21A&curPageLogUid=X44qKjVjlO5T)                                                                                           |
 
 
 If you want RGB, you will also need:
